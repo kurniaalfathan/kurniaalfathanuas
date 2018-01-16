@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_riwayat" value="name:id_orders;datatype:int,name:status_order;datatype:string,name:tgl_order;datatype:date,name:jam_order;datatype:time,name:id_kustomer;datatype:int" />
+</info>

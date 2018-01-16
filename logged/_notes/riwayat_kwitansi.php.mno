@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_orders1" value="name:id_orders;datatype:int,name:status_order;datatype:string,name:tgl_order;datatype:date,name:jam_order;datatype:time,name:id_kustomer;datatype:int" />
+	<infoitem key="UD_rs_orders_temp1" value="name:id_orders_temp;datatype:int,name:id_produk;datatype:int,name:id_session;datatype:string,name:jumlah;datatype:int,name:tgl_order_temp;datatype:date,name:jam_order_temp;datatype:time,name:stok_temp;datatype:int" />
+	<infoitem key="UD_rs_kustomer" value="name:id_kustomer;datatype:int,name:password;datatype:string,name:nama_lengkap;datatype:string,name:alamat;datatype:blob,name:email;datatype:string,name:telpon;datatype:string,name:id_kota;datatype:int,name:id_kota;datatype:int,name:nama_kota;datatype:string,name:ongkos_kirim;datatype:int" />
+</info>

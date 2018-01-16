@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_update_produk" value="name:id_orders_temp;datatype:int,name:id_produk;datatype:int,name:id_session;datatype:string,name:jumlah;datatype:int,name:tgl_order_temp;datatype:date,name:jam_order_temp;datatype:time,name:stok_temp;datatype:int" />
+</info>

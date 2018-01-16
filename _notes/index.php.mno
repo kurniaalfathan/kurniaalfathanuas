@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_product" value="name:produk_id;datatype:int,name:id_kategori;datatype:int,name:nama_produk;datatype:string,name:deskripsi;datatype:blob,name:harga;datatype:int,name:stok;datatype:int,name:berat;datatype:real,name:tgl_masuk;datatype:date,name:gambar;datatype:string,name:dibeli;datatype:int,name:diskon;datatype:int,name:desk;datatype:string" />
+	<infoitem key="UD_rs_productx" value="name:produk_id;datatype:int,name:id_kategori;datatype:int,name:nama_produk;datatype:string,name:deskripsi;datatype:blob,name:harga;datatype:int,name:stok;datatype:int,name:berat;datatype:real,name:tgl_masuk;datatype:date,name:gambar;datatype:string,name:dibeli;datatype:int,name:diskon;datatype:int,name:nama;datatype:string,name:desk;datatype:string" />
+	<infoitem key="UD_rs_kota" value="name:id_kota;datatype:int,name:nama_kota;datatype:string,name:ongkos_kirim;datatype:int" />
+	<infoitem key="UD_rs_modul" value="name:id_modul;datatype:int,name:static_content;datatype:blob,name:gambar;datatype:string" />
+	<infoitem key="UD_rs_detail_kategori" value="name:produk_id;datatype:int,name:id_kategori;datatype:int,name:nama_produk;datatype:string,name:deskripsi;datatype:blob,name:harga;datatype:int,name:stok;datatype:int,name:berat;datatype:real,name:tgl_masuk;datatype:date,name:gambar;datatype:string,name:dibeli;datatype:int,name:diskon;datatype:int,name:desk;datatype:string,name:nama;datatype:string" />
+	<infoitem key="UD_rs_kategori_judul" value="name:id_kategori;datatype:int,name:nama_kategori;datatype:string" />
+</info>

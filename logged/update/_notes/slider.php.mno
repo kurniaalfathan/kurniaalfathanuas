@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_slider" value="name:slider_id;datatype:int,name:slider_link_image;datatype:blob,name:slider_caption;datatype:blob,name:slider_desc;datatype:blob" />
+</info>

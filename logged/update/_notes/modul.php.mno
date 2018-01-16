@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_modul" value="name:id_modul;datatype:int,name:static_content;datatype:blob,name:gambar;datatype:string" />
+</info>
